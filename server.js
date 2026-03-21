@@ -22,7 +22,7 @@ app.use(
   })
 );
 
-const selectedModel = "meituan/longcat-flash-chat:free";
+const selectedModel = "nvidia/nemotron-3-super-120b-a12b:free";
 
 function escapeHtml(unsafe) {
   if (!unsafe) return "";
