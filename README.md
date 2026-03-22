@@ -44,7 +44,7 @@ It lets you ask questions, get markdown-rendered answers, and enjoy a sleek chat
 
 ## 👨‍💻 Author
 
-**Chinmay Chatradamath...**  
+**Chinmay Chatradamath...........**  
 
 ---
 
