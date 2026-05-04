@@ -1,4 +1,4 @@
-# 🤖 RogueGPT — Smart Chat Companion(V1)
+# 🤖 RogueGPT — Smart Chat Companion(V1).
 
 ![Node.js](https://img.shields.io/badge/Node.js-v18+-green?logo=node.js)
 ![Express](https://img.shields.io/badge/Express.js-Backend-black?logo=express)
